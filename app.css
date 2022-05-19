@@ -1,0 +1,14 @@
+
+
+.center{
+    
+    display:grid;
+    
+    justify-items: center;
+    margin-top: 22.5%
+
+}
+
+textarea {
+    resize: none;
+}
